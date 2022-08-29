@@ -5,7 +5,7 @@ const CardView = ({ products }) => {
   return (
     <div className="w-100 d-flex flex-row flex-wrap justify-content-between">
       {products.map((product) => (
-        <ShopCard {...product} />
+        <ShopCard key={product.img} {...product} />
       ))}
     </div>
   );

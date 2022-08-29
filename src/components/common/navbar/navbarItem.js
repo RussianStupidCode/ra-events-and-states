@@ -26,7 +26,7 @@ const NavbarItem = ({ title, link }) => {
   return (
     <li className="nav-item active m-2">
       <button className="btn btn-primary px-1">
-        <a>{title}</a>
+        <span>{title}</span>
       </button>
     </li>
   );
