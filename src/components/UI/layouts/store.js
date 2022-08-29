@@ -55,8 +55,8 @@ const Store = () => {
   return (
     <div className="d-flex flex-column align-items-center my-2 w-100">
       <IconSwitch icon={icon} onSwitch={handleSwitch} />
-      {icon === icons[0] && <CardView products={products} />}
-      {icon === icons[1] && <ListView products={products} />}
+      {icon === icons[1] && <CardView products={products} />}
+      {icon === icons[0] && <ListView products={products} />}
     </div>
   );
 };
