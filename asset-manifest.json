@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-events-and-states/static/css/main.54b09b2b.css",
+    "main.js": "/ra-events-and-states/static/js/main.c832c82b.js",
+    "static/media/bootstrap-icons.woff?": "/ra-events-and-states/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/ra-events-and-states/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/ra-events-and-states/index.html",
+    "main.54b09b2b.css.map": "/ra-events-and-states/static/css/main.54b09b2b.css.map",
+    "main.c832c82b.js.map": "/ra-events-and-states/static/js/main.c832c82b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54b09b2b.css",
+    "static/js/main.c832c82b.js"
+  ]
+}
